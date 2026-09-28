@@ -29,7 +29,7 @@ reactor deploy
 | `db migrate` / `db tables` / `db rows` | SQL and a look at the linked database |
 | `functions` / `sites` / `storage` / `logs` | Day to day on the linked project |
 
-The formula builds `reactor-cli` from tag `v1.26.09-beta.1` of [reactor-cloud/reactor](https://github.com/reactor-cloud/reactor) and installs the binary as `reactor`. This beta has no bottle.
+`brew install reactor` pours a bottle on Apple silicon macOS 26. Other Macs build `reactor-cli` from tag `v1.26.09-beta.1` of [reactor-cloud/reactor](https://github.com/reactor-cloud/reactor) and need Rust.
 
 Command reference: [CLI](https://github.com/reactor-cloud/reactor/blob/v1.26.09-beta.1/docs/operate/cli.md).
 
