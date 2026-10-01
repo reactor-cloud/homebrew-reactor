@@ -1,10 +1,10 @@
 class Reactor < Formula
   desc "CLI for the Reactor backend"
   homepage "https://github.com/reactor-cloud/reactor"
-  url "https://github.com/reactor-cloud/reactor/archive/refs/tags/v1.26.09-beta.2.tar.gz"
-  sha256 "9e6b9d8313f2b350cadf25cccfcd477fea4e398597ccfb7086f8aacba0c0ef27"
+  url "https://github.com/reactor-cloud/reactor/archive/refs/tags/v1.26.09-beta.3.tar.gz"
+  sha256 "32673b94836e90dfb3c6963d972d5243350fb981398819e32e82eb46d95ef3dc"
   license "BUSL-1.1"
-  version "1.26.09-beta.2"
+  version "1.26.09-beta.3"
 
   depends_on "rust" => :build
 
