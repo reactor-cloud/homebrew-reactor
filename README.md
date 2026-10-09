@@ -30,9 +30,9 @@ reactor deploy
 | `db migrate` / `db tables` / `db rows` | SQL and a look at the linked database |
 | `functions` / `sites` / `storage` / `logs` | Day to day on the linked project |
 
-`v1.26.10-beta8` builds from source and needs Rust. The formula uses tag `v1.26.10-beta8` of [reactor-cloud/reactor](https://github.com/reactor-cloud/reactor).
+`v1.26.10-beta9` builds from source and needs Rust. The formula uses tag `v1.26.10-beta9` of [reactor-cloud/reactor](https://github.com/reactor-cloud/reactor).
 
-Command reference: [CLI](https://github.com/reactor-cloud/reactor/blob/v1.26.10-beta8/docs/operate/cli.md).
+Command reference: [CLI](https://github.com/reactor-cloud/reactor/blob/v1.26.10-beta9/docs/operate/cli.md).
 
 ## License
 
